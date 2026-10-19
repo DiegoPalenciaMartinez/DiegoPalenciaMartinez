@@ -1,16 +1,42 @@
-## Hi there 👋
 
-<!--
-**Fussed19/Fussed19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# FUSSED
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Game Development · Computer Graphics · Software Engineering
+
+Third-year student at URJC  
+Erasmus+ at the University of Skövde, Sweden
+
+[LinkedIn](TU_URL_DE_LINKEDIN)
+
+</div>
+
+---
+
+## About Me
+
+I'm a third-year Video Game Design and Development student at
+Universidad Rey Juan Carlos (URJC), currently studying at the
+University of Skövde in Sweden through the Erasmus+ programme.
+
+I'm interested in game programming, computer graphics,
+ and software engineering.
+
+## Technologies
+
+**Languages:** C++, C#, Java, JavaScript, TypeScript, HLSL, GLSL
+
+**Tools:** Unity, OpenGL, Blender, Git, GitHub, Visual Studio, 3DS Max, Eclipse
+
+## Currently
+
+- Developing my programming and software engineering skills
+- Exploring game development and computer graphics
+- Preparing for internship opportunities in 2027
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/diego-palencia/)
+- [Portfolio](https://fussed19.github.io/portfolio/)
+
