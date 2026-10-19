@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# FUSSED
+# DIEGO PALENCIA MARTINEZ
 
 ### Game Development · Computer Graphics · Software Engineering
 
