@@ -7,8 +7,6 @@
 Third-year student at URJC  
 Erasmus+ at the University of Skövde, Sweden
 
-[LinkedIn](TU_URL_DE_LINKEDIN)
-
 </div>
 
 ---
